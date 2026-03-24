@@ -24,7 +24,6 @@ export default function TarefasPage() {
     },
   });
   const [descricao, setDescricao] = useState("");
-  console.log("data", data);
 
   async function handleAdicionarTarefaPress() {
     if (descricao.trim() === "") {
