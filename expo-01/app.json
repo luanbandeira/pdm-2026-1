@@ -44,17 +44,18 @@
       "typedRoutes": true,
       "reactCompiler": true
     },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "9858e7ed-da74-4f2b-8fa2-f07544205e7d"
-      }
-    },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/9858e7ed-da74-4f2b-8fa2-f07544205e7d"
-    }
+      "url": "https://u.expo.dev/7c08ebcc-e8dc-4dcb-af24-f131585220bd"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "7c08ebcc-e8dc-4dcb-af24-f131585220bd"
+      }
+    },
+    "owner": "luanbandeira"
   }
 }
